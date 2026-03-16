@@ -23,7 +23,7 @@ export default function Home() {
             <span className="text-gold">שמדברת</span>
           </h1>
           <p className="text-white/60 text-lg mb-10 font-body max-w-md mx-auto">
-            .................
+            -.................-
           </p>
           <a href="#products"
             className="inline-block bg-gold text-white px-10 py-4 rounded-full font-body font-medium hover:bg-gold-light hover:text-charcoal transition-all duration-300 tracking-wide">
